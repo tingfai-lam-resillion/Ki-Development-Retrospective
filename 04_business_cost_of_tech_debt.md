@@ -17,3 +17,6 @@ The monolithic design is the most pressing issue, but it is not the only one. Ot
 *   **Ineffective Manual Testing:** The project's testing was limited to quick, superficial manual checks. This "smoke testing" was ineffective at catching anything but the most obvious crashes and created a false sense of security. Without an automated test suite, there is no reliable way to verify the correctness of the core analysis logic, meaning subtle but critical bugs could easily go unnoticed.
 
 These issues combine to create a product that is fragile, slow, and resistant to change. While it met the initial requirements, it is not a sustainable foundation for future development or for the deeper partnership that Philips is now proposing.
+
+---
+[**< Previous: Undisciplined Process**](03_undisciplined_process.md) | [**Next: Recommendations >**](05_recommendations.md)

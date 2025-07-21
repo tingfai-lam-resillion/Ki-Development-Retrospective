@@ -27,3 +27,6 @@ These gaps in communication and knowledge sharing resulted in a fragmented team 
 It is important to note that these process and architectural issues were raised by the senior developer on multiple occasions during the project. Efforts were made to establish a more structured architectural foundation and to address the growing technical debt.
 
 However, without a clear mandate from project management to prioritize these concerns, and with a development process that allowed for unilateral decisions and overwriting of changes, these attempts to course-correct were consistently unsuccessful. This highlights a key gap: a process that allows for raising issues is not effective without a parallel process for ensuring those issues are formally addressed and resolved.
+
+---
+[**< Previous: Unclear Strategy**](01_unclear_strategy.md) | [**Next: Undisciplined Process >**](03_undisciplined_process.md)

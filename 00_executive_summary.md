@@ -13,3 +13,6 @@ While the project achieved its primary goal, the execution resulted in a product
 3.  **Concentrated Project Knowledge:** Critical information, from customer requirements to technical implementation details, was not consistently documented or shared across the team. This creates a "key person dependency," which is a significant operational risk for the business.
 
 These are concrete challenges that impact our agility, increase long-term costs, and introduce risk. This document breaks down how these situations arose and provides clear, constructive recommendations to strengthen our development processes for future projects.
+
+---
+[**Next: The Project Lacked a Clear and Stable Strategy >**](01_unclear_strategy.md)

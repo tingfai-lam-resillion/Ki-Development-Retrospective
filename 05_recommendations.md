@@ -35,3 +35,6 @@ To prevent these issues from recurring, all future software projects should adop
 4.  **Require a Basic Automated Test Suite.**
     *   **What:** All projects must have a basic suite of automated tests.
     *   **Why:** This provides a safety net to catch bugs, replaces ineffective "smoke testing," and allows the team to make changes with confidence.
+
+---
+[**< Previous: Business Cost of Tech Debt**](04_business_cost_of_tech_debt.md) | [**Back to Table of Contents**](README.md)

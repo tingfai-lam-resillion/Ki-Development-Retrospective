@@ -19,3 +19,6 @@ The primary development method was a form of "vibe coding": using an AI tool to 
 *   **AI-Generated Code Was Not Vetted:** The code produced by this method was committed without a thorough review. This is why the codebase shows classic signs of unvetted AI generation: inconsistent style, the same logic repeated with minor variations across dozens of files, and even AI-generated comments left in the code.
 
 "Vibe coding" is all fun and games until you have to debug the vibes. While AI is a useful assistant, using it without discipline, review, or proper version control was a primary cause of the project's current code quality problems.
+
+---
+[**< Previous: Collaboration Gaps**](02_collaboration_gaps.md) | [**Next: Business Cost of Tech Debt >**](04_business_cost_of_tech_debt.md)

@@ -28,3 +28,6 @@ The project would have benefited from more proactive management in key areas:
 *   **Technical Direction:** When the team had different views on important technical decisions (like whether to refactor or add new features), there was an opportunity for management to step in and provide a clear decision, which didn't happen.
 
 Without this active guidance, the project drifted. The lack of a firm, consistent direction allowed an unstructured development workflow to take over, resulting in the maintainability issues the project now faces.
+
+---
+[**< Previous: Executive Summary**](00_executive_summary.md) | [**Next: Gaps in Collaboration >**](02_collaboration_gaps.md)
