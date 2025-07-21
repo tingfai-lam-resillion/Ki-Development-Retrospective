@@ -14,6 +14,9 @@ Because these goals were never officially ranked, the team had to guess which on
 **Observation: The Budget and Timeline Were Unstable**
 
 The project's constraints changed abruptly, which forced a short-term mindset.
+*   On March 25th, the project summary was defined on Azure to be:
+    * Initial delivery no later than September 5th, 2025
+    * Final delivery no later than November 7th, 2025
 *   On April 23rd, the project was suddenly put on a tight 24-man-day budget, with the direction to build only the "bare minimum." This sent a clear message that code quality was not a priority.
 *   A few weeks later, this budget constraint was removed.
 *   Finally, on June 2nd, the release was abruptly moved up to June 16th. This rush directly led to the abandonment of the final refactoring branches (`refactor-report-generators` and `exe-bundling`).
